@@ -16,7 +16,7 @@
     position: relative;
     overflow: hidden;
 
-    animation: s 55s linear infinite;
+    animation: s 60s linear infinite;
     width: 700px;
     height: 1090px;
 }
@@ -35,6 +35,7 @@
 
 body {
     background-image: url('https://yiseoxpzuapa.github.io/petscopkids/img/bg.png');
+    background-size: 1855px 1055px;
 }
 
 a {
